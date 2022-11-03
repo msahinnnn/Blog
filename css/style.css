@@ -1,0 +1,40 @@
+.container {
+    font-family: arial;
+    font-size: 16px;
+    margin-top: 30px;
+    width: 600px;
+    height: 150px;
+    outline: dashed 3px black;
+    border-radius: 1%;
+    background-color: #f7e78f;
+    display: flex;
+    justify-content:left;
+}
+
+.child {
+    width: 130px;
+    height: 130px;
+    margin-top: 10px;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    outline: solid 3px black;
+  }
+
+.about{
+    margin-left: 30px;
+    margin-top: 10px;
+    outline: solid 3px black;
+    width: 420px;
+    height: 130px;
+    padding-left: 15px;
+}
+
+#image {
+    width: 130px;
+    height: 130px;
+}
+.body{
+    background-color: #545454;
+}
+
